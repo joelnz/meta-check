@@ -1,6 +1,6 @@
-# File Metadata Extractor
+# MetaCheck
 
-The File Metadata Extractor is a Python script that extracts metadata from various file types, including images (JPEG, PNG), PDFs, and Word documents. Potentially sensitive metadata gets flagged in red. 
+MetaCheck is a Python script that extracts metadata from all files within a directory, including images (JPEG, PNG), PDFs, and Word documents. Potentially sensitive metadata gets flagged in red. 
 
 ## Installation
 
